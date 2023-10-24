@@ -4,7 +4,6 @@ export default function HabitHeader({view,toggleView}) {
     <div className="container my-5">
       <div className="p-5 text-center bg-body-tertiary rounded-3">
         {/* <img src="../assets/healthy-lifestyle.png" alt="app-logo" /> */}
-        <img src="%PUBLIC_URL%/healthy-lifestyle.png" alt="app-logo" />
         {/* Main Heading */}
         <h1 className="text-body-emphasis">Habit Tracker</h1>
         <p className="col-lg-8 mx-auto fs-5 text-muted">
